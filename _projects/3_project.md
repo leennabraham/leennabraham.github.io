@@ -1,11 +1,17 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: High-Resolution Genome Assembly of Arabidopsis lyrata Using PacBio Long-Read Sequencing
+description: This project focuses on generating a high-quality genome assembly of Arabidopsis lyrata using PacBio long-read sequencing technology. By leveraging the improved read length and accuracy of PacBio HiFi data, we assembled a highly contiguous reference genome that captures complex genomic regions often missing in short-read assemblies. The resulting assembly enhances resolution of repetitive elements, structural variants, and regulatory regions, providing a valuable resource for studying genome evolution, structural variation, and the genetic basis of adaptation in natural populations of A. lyrata.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 3
+importance: 5
 category: work
+skills:
+  - Genome assembly (RagTag)
+  - Long-read data analysis 
+  - Structural variant detection
+  - BUSCO
+
 ---
 
 Every project has a beautiful feature showcase page.

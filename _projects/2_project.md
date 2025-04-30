@@ -1,11 +1,18 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Transposable Elements as Catalysts of Rapid Fungal Evolution
+description: In this project, we explore the impact of transposable elements (TEs) on adaptive evolution in fungal plant pathogens. Using population genomics and transcriptomics, we analyze recent TE activity in Z. tritici and its role in generating polymorphisms that influence virulence and secondary metabolite production. The study reveals how TEs contribute to genomic and phenotypic diversity within natural populations, providing a mechanistic understanding of how mobile genetic elements facilitate rapid adaptation and drive evolutionary innovation in microbial pathogens.
 img: assets/img/3.jpg
-importance: 2
+importance: 3
 category: work
 giscus_comments: true
+skills:
+  - R
+  - Python
+  - High-Performance Computing (SLURM)
+  - Data Visualization
+  - Version Control (Git)
+  - Big-data
 ---
 
 Every project has a beautiful feature showcase page.

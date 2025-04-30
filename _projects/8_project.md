@@ -1,11 +1,20 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
+title: Intra-Species Epigenetic Variation and Gene Regulation
+description: This research focuses on the role of histone modifications—particularly H3K27me3—in regulating gene expression and adaptation in Z. tritici. By profiling 47 field isolates, we uncover extensive population-level variation in H3K27me3 patterns, especially on accessory chromosomes. Genes involved in virulence, metabolism, and stress responses show dynamic epigenetic marking, underscoring the contribution of chromatin-based regulation to pathogen plasticity. Our findings enhance understanding of how epigenetic diversity within species influences the evolutionary trajectories of fungal pathogens.
+img: assets/img/4.jpg
+importance: 4
 category: work
-giscus_comments: true
+related_publications: true
+skills:
+  - R
+  - Python
+  - High-Performance Computing (SLURM)
+  - Data Visualization
+  - Peak calling (MACS2)
+
+
+
 ---
 
 Every project has a beautiful feature showcase page.
@@ -20,6 +29,47 @@ To give your project a background in the portfolio page, just add the img tag to
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
+<div class="mt-5">
+  <h4>💡 Technical Skills & Tools</h4>
+  <p>
+    <span class="badge badge-primary">R</span>
+    <span class="badge badge-success">Python</span>
+    <span class="badge badge-info">Snakemake</span>
+    <span class="badge badge-dark">Bash</span>
+    <span class="badge badge-warning">Stan</span>
+    <span class="badge badge-secondary">Docker</span>
+    <span class="badge badge-light">Git</span>
+    <span class="badge badge-danger">scikit-learn</span>
+  </p>
+</div>
+
+<div class="mt-4">
+  <h4>📌 Workflow Snippet</h4>
+  <pre><code class="language-python">
+rule chipseq_qc:
+    input:
+        "data/{sample}.bam"
+    output:
+        "qc/{sample}_report.html"
+    shell:
+        "Rscript scripts/qc_chipseq.R {input} {output}"
+  </code></pre>
+</div>
+
+<div class="mt-4">
+  <h4>🔍 Technical Highlights</h4>
+  <ul>
+    <li>Analyzed ChIP-seq H3K27me3 profiles from 47 fungal isolates</li>
+    <li>Mapped histone mark variability across core vs. accessory chromosomes</li>
+    <li>Linked chromatin signatures with gene expression and stress-related functions</li>
+    <li>Used R for statistical modeling, ggplot2 for visualization, and Git for version control</li>
+  </ul>
+</div>
+
+<div class="mt-4">
+  <h4>📈 Example Plot</h4>
+  {% include figure.liquid path="assets/img/1.png" title="Population structure of H3K27me3 profiles" class="img-fluid rounded z-depth-1" %}
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,8 +94,8 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">

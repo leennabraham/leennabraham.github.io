@@ -1,11 +1,20 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Regulatory Polymorphisms and Pathogen Adaptation
+description: Investigated the genomic basis of adaptation in Zymoseptoria tritici, a major fungal pathogen of wheat, with a focus on how regulatory polymorphisms shape gene expression variation. By integrating genome-wide regulatory variant maps with transcriptional and phenotypic data, we identify key expression quantitative trait loci (eQTLs) linked to pathogenicity traits. Our findings highlight the role of cis-eQTLs in modulating expression of genes involved in fungal pathogenesis, emphasizing the significance of regulatory variation as a driver of rapid pathogen adaptation in agricultural ecosystems.
 img: assets/img/12.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: true
+skills:
+  - eQTL mapping
+  - Transcriptomics
+  - GWAS
+  - R
+  - Python
+  - HPC
+  
+
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,19 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
+title: Integrating multi-omics for trait heritability prediction in plant populations
+description: This project explored the genetic and epigenetic basis of complex traits in Arabidopsis lyrata by integrating genome-wide DNA methylation and transcriptome data from 800 hybrids. Using Bayesian mixed models (brms) and machine learning approaches (PCA, gradient boosting classifiers, Random Forests), we quantified additive and dominance variance components and predicted fitness-related traits. The work combined high-throughput WGBS and RNA-seq data, reproducible multi-omics pipelines (R, Python, Bash), and FAIR data practices, providing insights into trait heritability and breeding value optimization across natural populations.
+img: assets/img/9.jpg
 importance: 1
 category: work
-related_publications: true
+giscus_comments: true
+skills:
+  - Machine learning
+  - Bayesian regression
+  - scikit-learn
+  - Multi-omics
+  - Genetic variance
+  - Genomic prediction
+
 ---
 
 Every project has a beautiful feature showcase page.
@@ -44,8 +52,8 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">

@@ -1,5 +1,9 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I’m Leen Abraham, a postdoctoral researcher in genomics and computational biology, currently based in Germany. My research sits at the intersection of evolutionary biology, functional genomics, and data science, with a strong emphasis on understanding how genetic and epigenetic variation drives adaptation in natural and agricultural ecosystems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I specialize in developing and applying integrative approaches to study gene regulation, DNA methylation, and structural genome variation in plant and fungal systems. My work combines high-throughput sequencing technologies (e.g., WGBS, RNA-seq, PacBio), statistical modeling, and machine learning to uncover the molecular mechanisms underlying phenotypic diversity and environmental responsiveness.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my PhD, I focused on regulatory polymorphisms and their influence on gene expression in fungal pathogens such as Zymoseptoria tritici. Currently, I work on epigenomic and transcriptomic analyses in Arabidopsis lyrata, exploring how DNA methylation and gene regulation contribute to non-additive genetic effects and trait prediction.
+
+I’m also passionate about reproducible science, FAIR data practices, and developing computational workflows in R, Python, and Snakemake. I regularly collaborate across disciplines and enjoy translating biological questions into data-driven models.
+
+When I’m not coding or running sequencing analyses, I’m often mentoring students and supporting their growth in computational biology. I also love hiking and strolling in nature with my camera, capturing quiet moments and the subtle beauty of wild landscapes.
