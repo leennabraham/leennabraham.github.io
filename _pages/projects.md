@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: From plants to pathogens, my projects dive into the fascinating world of biological variation — exploring how genetics, epigenetics, and evolution shape the living world using data-driven approaches.
+description: My projects dive into the fascinating world of biological variation — exploring how genetics, epigenetics, and evolution shape the living world using data-driven approaches.
 nav: true
 nav_order: 2
 display_categories: [work]

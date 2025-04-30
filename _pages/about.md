@@ -28,12 +28,13 @@ latest_posts:
 ---
 <div style="text-align: justify;">
 
-Hi! I’m Leen Abraham, a computational biologist with a love for big data, genomics and all the fascinating ways living organisms adapt. Currently based in Germany, I work at the crossroads of evolutionary biology, functional genomics, and machine learning — combining biological insights and computational approaches to understand how genetic and epigenetic variation shape life in natural and agricultural systems.
+Hi! I’m Leen Abraham, a computational biologist passionate about leveraging big data and genomics to drive data-informed decisions and uncover meaningful biological insights.
 <br><br>
-My research journey has taken me deep into the omics world of plants and fungi. As a postdoctoral researcher at the University of Cologne, I investigate how DNA methylation and gene regulation influence complex traits heritability in plant populations, using large-scale omics data, statistical modeling, and machine learning. Before this, during my PhD at the University of Neuchâtel in Switzerland, I explored how subtle changes in DNA drive gene expression and pathogen evolution. My scientific path began in India, where I studied biotechnology and first discovered the excitement of international collaboration during a research fellowship at ETH Zurich.
+Currently based in Germany, I work at the intersection of multiomics and machine learning — combining biological understanding with computational approaches to explore how genetic and epigenetic variation contributes to adaptation in both natural and agricultural systems.
 <br><br>
-Beyond the technical side, I’m passionate about making science transparent, reproducible, and collaborative. I enjoy building workflows (with R, Python, and Snakemake), sharing knowledge, and helping others navigate the sometimes challenging, often rewarding world of computational biology. Mentoring students and colleagues has been one of the most meaningful parts of my journey — I believe that a mix of optimism, resilience, and curiosity is key to thriving in science.
+My research journey has taken me deep into the omics landscapes of plants and fungi. As a postdoctoral researcher at the University of Cologne, I study the genetic and epigenetic basis of complex trait heritability in plant populations, using large-scale omics data, statistical modeling, and machine learning. During my PhD at the University of Neuchâtel in Switzerland, I explored how subtle DNA changes drive pathogen evolution through gene expression variation.
 <br><br>
-When I’m not deep into data or genomes, you’ll probably find me hiking through forests, camera in hand, chasing the perfect light and quiet moments that nature offers. I’m driven by a belief that small discoveries — whether in science or everyday life — can spark big changes.
-
+Beyond the technical side, I’m deeply committed to making science transparent, reproducible, and collaborative. I enjoy building bioinformatics workflows (using R, Python, and Snakemake), sharing knowledge, and helping others navigate the often challenging but rewarding field of computational biology. Mentoring students and colleagues has been one of the most fulfilling parts of my journey — I believe a mix of curiosity, resilience, and optimism is key to thriving in science.
+<br><br>
+When I’m not immersed in data or genomes, you’ll likely find me hiking through forests with a camera in hand, chasing the perfect light and the quiet moments that nature offers. I’m driven by the belief that small discoveries — in science or life — can lead to big changes.
 </div>
