@@ -6,7 +6,7 @@ subtitle: <a href="https://www.linkedin.com/in/leen-abraham-b5246b65/"> Research
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: leen.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
