@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "From plants to pathogens, my projects dive into the fascinating world of biological variation — exploring how genetics, epigenetics, and evolution shape the living world using data-driven approaches.",
+          description: "My projects dive into the fascinating world of biological variation — exploring how genetics, epigenetics, and evolution shape the living world using data-driven approaches.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
