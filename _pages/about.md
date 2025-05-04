@@ -30,11 +30,10 @@ latest_posts:
 
 Hi! I’m Leen Abraham, a computational biologist passionate about leveraging big data and genomics to drive data-informed decisions and uncover meaningful biological insights.
 <br><br>
-Currently based in Germany, I work at the intersection of multiomics and machine learning — combining biological understanding with computational approaches to explore how genetic and epigenetic variation contributes to adaptation in both natural and agricultural systems.
+Currently based in Germany, I work at the intersection of multiomics and machine learning — combining biological understanding with computational tools to explore how genetic and epigenetic variation shapes complex traits and drives adaptation in natural and agricultural systems.
 <br><br>
-My research journey has taken me deep into the omics landscapes of plants and fungi. As a postdoctoral researcher at the University of Cologne, I study the genetic and epigenetic basis of complex trait heritability in plant populations, using large-scale omics data, statistical modeling, and machine learning. During my PhD at the University of Neuchâtel in Switzerland, I explored how subtle DNA changes drive pathogen evolution through gene expression variation.
+My journey into computational biology began with a PhD at the University of Neuchâtel in Switzerland, where I studied how subtle changes in DNA affect pathogen evolution through gene expression. Now, as a postdoctoral researcher at the University of Cologne, I focus on the heritability of complex traits in plant populations, using large-scale omics datasets, statistical modeling, and machine learning.
 <br><br>
-Beyond the technical side, I’m deeply committed to making science transparent, reproducible, and collaborative. I enjoy building bioinformatics workflows (using R, Python, and Snakemake), sharing knowledge, and helping others navigate the often challenging but rewarding field of computational biology. Mentoring students and colleagues has been one of the most fulfilling parts of my journey — I believe a mix of curiosity, resilience, and optimism is key to thriving in science.
+Beyond the technical work, I enjoy mentoring, collaborating, and sharing what I learn along the way. I deeply believe [I am a human first — and then a scientist](https://www.nature.com/articles/d41586-018-07530-7.pdf). Holding on to that perspective, I strive to lead with empathy, curiosity, and optimism — not only to thrive in science, but to uplift those around me and help foster healthier, more collaborative research environments. 
 <br><br>
-When I’m not immersed in data or genomes, you’ll likely find me hiking through forests with a camera in hand, chasing the perfect light and the quiet moments that nature offers. I’m driven by the belief that small discoveries — in science or life — can lead to big changes.
-</div>
+When I’m not immersed in data, you’ll likely find me hiking through forests with a camera in hand, chasing the perfect light and quiet moments that nature offers. I also enjoy gardening — a simple, hands-on way to stay connected with the natural world.</div>
